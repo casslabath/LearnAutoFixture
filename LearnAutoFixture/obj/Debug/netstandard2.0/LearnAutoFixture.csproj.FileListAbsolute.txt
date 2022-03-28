@@ -1,0 +1,10 @@
+C:\Users\Cassie\Desktop\Pluralsight\LearnAutoFixture\LearnAutoFixture\bin\Debug\netstandard2.0\LearnAutoFixture.deps.json
+C:\Users\Cassie\Desktop\Pluralsight\LearnAutoFixture\LearnAutoFixture\bin\Debug\netstandard2.0\LearnAutoFixture.dll
+C:\Users\Cassie\Desktop\Pluralsight\LearnAutoFixture\LearnAutoFixture\bin\Debug\netstandard2.0\LearnAutoFixture.pdb
+C:\Users\Cassie\Desktop\Pluralsight\LearnAutoFixture\LearnAutoFixture\obj\Debug\netstandard2.0\LearnAutoFixture.csproj.AssemblyReference.cache
+C:\Users\Cassie\Desktop\Pluralsight\LearnAutoFixture\LearnAutoFixture\obj\Debug\netstandard2.0\LearnAutoFixture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cassie\Desktop\Pluralsight\LearnAutoFixture\LearnAutoFixture\obj\Debug\netstandard2.0\LearnAutoFixture.AssemblyInfoInputs.cache
+C:\Users\Cassie\Desktop\Pluralsight\LearnAutoFixture\LearnAutoFixture\obj\Debug\netstandard2.0\LearnAutoFixture.AssemblyInfo.cs
+C:\Users\Cassie\Desktop\Pluralsight\LearnAutoFixture\LearnAutoFixture\obj\Debug\netstandard2.0\LearnAutoFixture.csproj.CoreCompileInputs.cache
+C:\Users\Cassie\Desktop\Pluralsight\LearnAutoFixture\LearnAutoFixture\obj\Debug\netstandard2.0\LearnAutoFixture.dll
+C:\Users\Cassie\Desktop\Pluralsight\LearnAutoFixture\LearnAutoFixture\obj\Debug\netstandard2.0\LearnAutoFixture.pdb
