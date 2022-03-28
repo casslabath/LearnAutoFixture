@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/EzXQ5LLxZv5kMf14sGKD5dENXCPC6dDFmu4wqD5vne6P/qBfltX61vbalz1HaQIJG0xzPw5zG/JPWPp/4u+Jg==",
+  "dgSpecHash": "7LBgB5IHpWteqLPkgZVFUt9H8ZUCgLfMcf0kfgHqwH2f9haKRz/m+9a0ZYEXF6/tGvFsALDRnd8HocdBUcXwDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cassie\\Desktop\\Pluralsight\\LearnAutoFixture\\LearnAutoFixture.Tests\\LearnAutoFixture.Tests\\LearnAutoFixture.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Cassie\\Desktop\\Pluralsight\\LearnAutoFixture\\01\\LearnAutoFixture.Tests\\LearnAutoFixture.Tests\\LearnAutoFixture.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cassie\\.nuget\\packages\\autofixture\\4.11.0\\autofixture.4.11.0.nupkg.sha512",
     "C:\\Users\\Cassie\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",

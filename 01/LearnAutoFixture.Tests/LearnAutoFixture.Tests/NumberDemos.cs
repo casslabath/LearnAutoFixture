@@ -1,5 +1,6 @@
 ﻿using System;
 using Xunit;
+using AutoFixture;
 
 namespace LearnAutoFixture.Tests
 {
@@ -10,9 +11,10 @@ namespace LearnAutoFixture.Tests
         {
             // arange
             var sut = new IntCalculator(); //sut is System Under Test
-
+            var fixture = new Fixture();
+                
             // act
-            sut.Subtract(1);
+            sut.Subtract(fixture.Create<int>());
 
             // assert
             Assert.True(sut.Value < 0);

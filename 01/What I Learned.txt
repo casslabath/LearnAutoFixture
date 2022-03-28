@@ -1,0 +1,9 @@
+Learned. . .
+
+That AutoFixture is used to simplify and reduce the 'arrage' phase of testing
+
+That anonymous data is data that needs to be present for execution but the 
+value does not matter
+
+We can use AutoFixture to create anonymous data by making a Fixture instance
+and using fixture.Create<>()

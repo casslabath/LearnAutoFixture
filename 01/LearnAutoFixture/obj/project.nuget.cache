@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ALlCuOPbvyLSp8vL+QEqcVSOsvtCDR5d2UYQomNtn65tp2fAmOsFFaew9VvbOwFow2P/dqvnWOTcYYjk73PClA==",
+  "dgSpecHash": "SoTRJxb/fwxpNjSNFwbV5IUo8YpaU/lL3tYN5M3NRqX8mxSCq72JaH/y/ZYOjfAOtyU2PYd90tNHAZj8aCLRHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cassie\\Desktop\\Pluralsight\\LearnAutoFixture\\LearnAutoFixture\\LearnAutoFixture.csproj",
+  "projectFilePath": "C:\\Users\\Cassie\\Desktop\\Pluralsight\\LearnAutoFixture\\01\\LearnAutoFixture\\LearnAutoFixture.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cassie\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Cassie\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

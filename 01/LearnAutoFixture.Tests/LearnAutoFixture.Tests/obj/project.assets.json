@@ -6231,11 +6231,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cassie\\Desktop\\Pluralsight\\LearnAutoFixture\\LearnAutoFixture.Tests\\LearnAutoFixture.Tests\\LearnAutoFixture.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Cassie\\Desktop\\Pluralsight\\LearnAutoFixture\\01\\LearnAutoFixture.Tests\\LearnAutoFixture.Tests\\LearnAutoFixture.Tests.csproj",
       "projectName": "LearnAutoFixture.Tests",
-      "projectPath": "C:\\Users\\Cassie\\Desktop\\Pluralsight\\LearnAutoFixture\\LearnAutoFixture.Tests\\LearnAutoFixture.Tests\\LearnAutoFixture.Tests.csproj",
+      "projectPath": "C:\\Users\\Cassie\\Desktop\\Pluralsight\\LearnAutoFixture\\01\\LearnAutoFixture.Tests\\LearnAutoFixture.Tests\\LearnAutoFixture.Tests.csproj",
       "packagesPath": "C:\\Users\\Cassie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cassie\\Desktop\\Pluralsight\\LearnAutoFixture\\LearnAutoFixture.Tests\\LearnAutoFixture.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Cassie\\Desktop\\Pluralsight\\LearnAutoFixture\\01\\LearnAutoFixture.Tests\\LearnAutoFixture.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cassie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6252,8 +6252,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Cassie\\Desktop\\Pluralsight\\LearnAutoFixture\\LearnAutoFixture\\LearnAutoFixture.csproj": {
-              "projectPath": "C:\\Users\\Cassie\\Desktop\\Pluralsight\\LearnAutoFixture\\LearnAutoFixture\\LearnAutoFixture.csproj"
+            "C:\\Users\\Cassie\\Desktop\\Pluralsight\\LearnAutoFixture\\01\\LearnAutoFixture\\LearnAutoFixture.csproj": {
+              "projectPath": "C:\\Users\\Cassie\\Desktop\\Pluralsight\\LearnAutoFixture\\01\\LearnAutoFixture\\LearnAutoFixture.csproj"
             }
           }
         }

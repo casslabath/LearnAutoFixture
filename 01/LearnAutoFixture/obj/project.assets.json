@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cassie\\Desktop\\Pluralsight\\LearnAutoFixture\\LearnAutoFixture\\LearnAutoFixture.csproj",
+      "projectUniqueName": "C:\\Users\\Cassie\\Desktop\\Pluralsight\\LearnAutoFixture\\01\\LearnAutoFixture\\LearnAutoFixture.csproj",
       "projectName": "LearnAutoFixture",
-      "projectPath": "C:\\Users\\Cassie\\Desktop\\Pluralsight\\LearnAutoFixture\\LearnAutoFixture\\LearnAutoFixture.csproj",
+      "projectPath": "C:\\Users\\Cassie\\Desktop\\Pluralsight\\LearnAutoFixture\\01\\LearnAutoFixture\\LearnAutoFixture.csproj",
       "packagesPath": "C:\\Users\\Cassie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cassie\\Desktop\\Pluralsight\\LearnAutoFixture\\LearnAutoFixture\\obj\\",
+      "outputPath": "C:\\Users\\Cassie\\Desktop\\Pluralsight\\LearnAutoFixture\\01\\LearnAutoFixture\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cassie\\AppData\\Roaming\\NuGet\\NuGet.Config",
