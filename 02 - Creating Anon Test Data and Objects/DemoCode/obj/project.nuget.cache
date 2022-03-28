@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UwlHrVc5lsOjeHboKe6sQiqpcCMIJrLw23gz2k7d5MJnmjOME37TJpSJ4jPlNYuTiJjJAysu8ByQeNET+nACnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cassie\\Desktop\\Pluralsight\\LearnAutoFixture\\02 - Creating Anon Test Data and Objects\\DemoCode\\DemoCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cassie\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Cassie\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Cassie\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
