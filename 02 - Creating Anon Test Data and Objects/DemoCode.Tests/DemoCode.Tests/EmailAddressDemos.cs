@@ -16,9 +16,9 @@ namespace DemoCode.Tests
             // string domain = fixture.Create<DomainName>().Domain;
             // string fullAddress = $"{localPart}@{domain}";
 
-            MailAddress email = fixture.Create<MailAddress>();
+            // MailAddress email = fixture.Create<MailAddress>();
 
-            var sut = new EmailMessage(email.Address,
+            var sut = new EmailMessage(fixture.Create<MailAddress>().Address,
                                        fixture.Create<string>(),
                                        fixture.Create<bool>());
         }
