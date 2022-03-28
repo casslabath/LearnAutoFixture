@@ -9,6 +9,7 @@
       "DemoCode.Tests/1.0.0": {
         "dependencies": {
           "AutoFixture": "4.11.0",
+          "AutoFixture.SeedExtensions": "4.11.0",
           "DemoCode": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.1.0",
           "coverlet.collector": "3.1.2",
@@ -26,6 +27,17 @@
         },
         "runtime": {
           "lib/netstandard2.0/AutoFixture.dll": {
+            "assemblyVersion": "4.11.0.0",
+            "fileVersion": "4.11.0.549"
+          }
+        }
+      },
+      "AutoFixture.SeedExtensions/4.11.0": {
+        "dependencies": {
+          "AutoFixture": "4.11.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AutoFixture.SeedExtensions.dll": {
             "assemblyVersion": "4.11.0.0",
             "fileVersion": "4.11.0.549"
           }
@@ -1137,6 +1149,13 @@
       "sha512": "sha512-2C8JcuQU70dJQ8v5YVwkLPyd0pzpcXT5SF6z+K+FwoRb0HWpmLEaNHw1nYx+wpjgf35AyivF+p/7hPhWsBj0YQ==",
       "path": "autofixture/4.11.0",
       "hashPath": "autofixture.4.11.0.nupkg.sha512"
+    },
+    "AutoFixture.SeedExtensions/4.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LDD3qEarUoUF30YfaPF+SuhtnVPmgEFqTGFz8caKQMlHuA3SseXtgCi2Kzm+DjuFDP7DJUg9Cg/UJZxB2lvl5w==",
+      "path": "autofixture.seedextensions/4.11.0",
+      "hashPath": "autofixture.seedextensions.4.11.0.nupkg.sha512"
     },
     "coverlet.collector/3.1.2": {
       "type": "package",

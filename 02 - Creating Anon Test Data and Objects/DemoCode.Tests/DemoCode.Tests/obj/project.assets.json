@@ -15,6 +15,18 @@
           "lib/netstandard2.0/AutoFixture.dll": {}
         }
       },
+      "AutoFixture.SeedExtensions/4.11.0": {
+        "type": "package",
+        "dependencies": {
+          "AutoFixture": "4.11.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/AutoFixture.SeedExtensions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/AutoFixture.SeedExtensions.dll": {}
+        }
+      },
       "coverlet.collector/3.1.2": {
         "type": "package",
         "build": {
@@ -1739,6 +1751,26 @@
         "lib/netstandard2.0/AutoFixture.dll",
         "lib/netstandard2.0/AutoFixture.pdb",
         "lib/netstandard2.0/AutoFixture.xml"
+      ]
+    },
+    "AutoFixture.SeedExtensions/4.11.0": {
+      "sha512": "LDD3qEarUoUF30YfaPF+SuhtnVPmgEFqTGFz8caKQMlHuA3SseXtgCi2Kzm+DjuFDP7DJUg9Cg/UJZxB2lvl5w==",
+      "type": "package",
+      "path": "autofixture.seedextensions/4.11.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "autofixture.seedextensions.4.11.0.nupkg.sha512",
+        "autofixture.seedextensions.nuspec",
+        "lib/net452/AutoFixture.SeedExtensions.dll",
+        "lib/net452/AutoFixture.SeedExtensions.pdb",
+        "lib/net452/AutoFixture.SeedExtensions.xml",
+        "lib/netstandard1.5/AutoFixture.SeedExtensions.dll",
+        "lib/netstandard1.5/AutoFixture.SeedExtensions.pdb",
+        "lib/netstandard1.5/AutoFixture.SeedExtensions.xml",
+        "lib/netstandard2.0/AutoFixture.SeedExtensions.dll",
+        "lib/netstandard2.0/AutoFixture.SeedExtensions.pdb",
+        "lib/netstandard2.0/AutoFixture.SeedExtensions.xml"
       ]
     },
     "coverlet.collector/3.1.2": {
@@ -6147,6 +6179,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "AutoFixture >= 4.11.0",
+      "AutoFixture.SeedExtensions >= 4.11.0",
       "DemoCode >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
       "coverlet.collector >= 3.1.2",
@@ -6198,6 +6231,10 @@
         "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "AutoFixture": {
+            "target": "Package",
+            "version": "[4.11.0, )"
+          },
+          "AutoFixture.SeedExtensions": {
             "target": "Package",
             "version": "[4.11.0, )"
           },

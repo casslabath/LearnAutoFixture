@@ -101,3 +101,4 @@ C:\Users\Cassie\Desktop\Pluralsight\LearnAutoFixture\02 - Creating Anon Test Dat
 C:\Users\Cassie\Desktop\Pluralsight\LearnAutoFixture\02 - Creating Anon Test Data and Objects\DemoCode.Tests\DemoCode.Tests\obj\Debug\netcoreapp3.1\DemoCode.Tests.dll
 C:\Users\Cassie\Desktop\Pluralsight\LearnAutoFixture\02 - Creating Anon Test Data and Objects\DemoCode.Tests\DemoCode.Tests\obj\Debug\netcoreapp3.1\DemoCode.Tests.pdb
 C:\Users\Cassie\Desktop\Pluralsight\LearnAutoFixture\02 - Creating Anon Test Data and Objects\DemoCode.Tests\DemoCode.Tests\obj\Debug\netcoreapp3.1\DemoCode.Tests.genruntimeconfig.cache
+C:\Users\Cassie\Desktop\Pluralsight\LearnAutoFixture\02 - Creating Anon Test Data and Objects\DemoCode.Tests\DemoCode.Tests\bin\Debug\netcoreapp3.1\AutoFixture.SeedExtensions.dll

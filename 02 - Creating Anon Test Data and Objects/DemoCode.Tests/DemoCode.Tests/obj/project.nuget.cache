@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "xBdBA6tQmXKLtAxHihEWb9WqBqdqZqr3SSv46X9MMxdiHsA9kBhCM/MOzKeBT+YZjdE5MqdYENWbwFACuSenkg==",
+  "dgSpecHash": "CKHgDe+jGQW9vbcqNPaGlk1yt+62OXqPQFnshfU/65f4VaR74RyuK07SD9ger9ubRZubNgHa0BuQDlQZmXbFGw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Cassie\\Desktop\\Pluralsight\\LearnAutoFixture\\02 - Creating Anon Test Data and Objects\\DemoCode.Tests\\DemoCode.Tests\\DemoCode.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cassie\\.nuget\\packages\\autofixture\\4.11.0\\autofixture.4.11.0.nupkg.sha512",
+    "C:\\Users\\Cassie\\.nuget\\packages\\autofixture.seedextensions\\4.11.0\\autofixture.seedextensions.4.11.0.nupkg.sha512",
     "C:\\Users\\Cassie\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Cassie\\.nuget\\packages\\fare\\2.1.1\\fare.2.1.1.nupkg.sha512",
     "C:\\Users\\Cassie\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
