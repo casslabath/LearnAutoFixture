@@ -23,7 +23,8 @@ namespace DemoCode.Tests
         {
             var fixture = new Fixture();
             TimeSpan timeSpan = fixture.Create<TimeSpan>();
-
+            // breakpoint to see generated value
+            // mine was {00:00:00.0000131}
         }
     }
 }
