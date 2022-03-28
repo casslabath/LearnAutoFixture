@@ -39,7 +39,8 @@ namespace DemoCode.Tests
             var fixture = new Fixture();
 
             /*
-             * debugged to look at default
+             * debugged to look at generated value 
+             * Mine was '\0'
              */
             var anonChar = fixture.Create<char>();
         }
